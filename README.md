@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DSA <br>✨ I'm interested in Web Development<br>🔥Hit me up for talks and discussion in DSA and Web Dev<br>😄 Pronouns: He/Him<br>
+🌱 I’m currently learning DSA <br>✨ I'm interested in Web Development<br>🔥Hit me up for talks and discussion in DSA and Web Dev<br>😄 Pronouns: He/Him <br> 💼 Ex-Intern @YashTechnologies Pvt Ltd.
 
 
 ## 🌐 Socials:
